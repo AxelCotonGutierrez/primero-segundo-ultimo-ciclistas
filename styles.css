@@ -60,7 +60,7 @@ h1 {
   }
   .pregunta {
     font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 35px;
+    font-size: 40px;
     justify-content: center;
     align-items: center;
     padding-right: 0.5em;
@@ -131,9 +131,7 @@ h1 {
       padding: 5x 5px;
         }
   
-  .pregunta {
-      font-size: 30px;
-  }
+ 
   
     #imagenes-ciclistas img {
       width: 80px;
